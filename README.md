@@ -20,7 +20,7 @@
 
 <br>
 
-##  ✍️ Dev Quote 😵:
+##  ✍️ Random Dev Quote:
 
 <br>
 
