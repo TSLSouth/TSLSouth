@@ -13,8 +13,6 @@
 
 <br>
 
-<br>
-
 ## 📂 My Repos:
 
 ### Customer Analysis (EDA and ML)
@@ -37,6 +35,7 @@
 [- HelpDesk Dashboard](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard) <br>
 [- Customer Analysis a Clothing Brand with multiple recomendations (uploading soon)]() <br>
 
+<br>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TSLSouth&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
