@@ -13,6 +13,31 @@
 
 <br>
 
+<br>
+
+## 📂 My Repos:
+
+### Customer Analysis (EDA and ML)
+[- SQL Customer Engagement Analysis](https://github.com/TSLSouth/SQL-Customer-Engagement-Analysis) <br>
+[- Customer Service Analysis NYPD (New York Police Department)](https://github.com/TSLSouth/Customer-Service-Analysis-NYPD) <br>
+[- HelpDesk Exploratory Data Aanalysis and Modeling](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard) <br>
+[- Churn Prediction](https://github.com/TSLSouth/Churn-Prediction) <br>
+[- Freemium Upgrade Prediction (uploading soon)]() <br>
+[- Customer Analysis of a Clothing Brand with multiple recomendations (uploading soon)]() <br>
+
+### Finance Analysis (EDA and ML)
+[- Risk Analysis and Prediction with Tensorflow ](https://github.com/TSLSouth/Risk-Analysis-Prediction-with-Tensorflow) <br>
+[- House Price Predictions with Neural Networks](https://github.com/TSLSouth/House-Price-Predictions-with-Neural-Network) <br>
+[- EDA on US Stocks Behaviour During Financial Crisis 2008](https://github.com/TSLSouth/EDA-on-US-Stocks-Behaviour-During-Financial-Crisis-2008) <br>
+[- Credit Analysis with Decision Trees and Random Forest (uploading soon)]() <br>
+
+
+### Dashboards:
+[- Startup KPIs Dashboard](https://github.com/TSLSouth/Startup-KPIs-Dashboard) <br>
+[- HelpDesk Dashboard](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard) <br>
+[- Customer Analysis a Clothing Brand with multiple recomendations (uploading soon)]() <br>
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TSLSouth&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TSLSouth&theme=dark&hide_border=false)<br/>
