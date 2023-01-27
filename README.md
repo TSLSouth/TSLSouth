@@ -25,6 +25,8 @@
 [- EDA on US Stocks Behaviour During Financial Crisis 2008](https://github.com/TSLSouth/EDA-on-US-Stocks-Behaviour-During-Financial-Crisis-2008) <br>
 [- Credit Analysis with Decision Trees and Random Forest (uploading soon)]() <br>
 
+### Other projects
+[- Cancer Diagnosis on an high-dimensional db using unsupervised PCA and supervised SVM](https://github.com/TSLSouth/Cancer-Diagnosis-high-dimensional-db-using-PCA-and-SVM)
 
 ### Dashboards:
 [- Startup KPIs Dashboard](https://github.com/TSLSouth/Startup-KPIs-Dashboard) <br>
