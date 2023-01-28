@@ -17,7 +17,7 @@
 [- HelpDesk Exploratory Data Aanalysis and Modeling](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard) <br>
 [- Churn Prediction](https://github.com/TSLSouth/Churn-Prediction) <br>
 [- Freemium Upgrade Prediction (uploading soon)]() <br>
-[- Customer Analysis of a Clothing Brand with multiple recomendations (uploading soon)]() <br>
+[- Customer Analysis of a Clothing Brand with multiple recomendations](https://github.com/TSLSouth/Customer-Analysis-of-a-Clothing-Brand-with-multiple-recomendations) <br>
 
 ### Financial Analysis (EDA and ML)
 [- Risk Analysis and Prediction with Tensorflow ](https://github.com/TSLSouth/Risk-Analysis-Prediction-with-Tensorflow) <br>
@@ -31,7 +31,7 @@
 ### Dashboards:
 [- Startup KPIs Dashboard](https://github.com/TSLSouth/Startup-KPIs-Dashboard) <br>
 [- HelpDesk Dashboard](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard) <br>
-[- Customer Analysis a Clothing Brand with multiple recomendations (uploading soon)]() <br>
+[- Customer Analysis of a Clothing Brand with multiple recomendations](https://github.com/TSLSouth/Customer-Analysis-of-a-Clothing-Brand-with-multiple-recomendations) <br>
 
 <br>
 
