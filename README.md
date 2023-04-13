@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭I'm currently working as a freelancer data analyst<br>🧑‍🤝‍🧑Looking to learn about it with others<br>🤝Anyone can use, copy and share my repositories (making a mention is always cool)<br>🌱I'm always studying and applying more and more data science each day and getting more certificates in this area<br>💬Ask me about broad business view and business understanding through data<br>
+🔭I'm currently working as a freelancer data analyst<br>🧑‍🤝‍🧑Looking to learn about it with others<br>🤝Anyone can use, copy and share my repositories (making a mention is always cool)<br>🌱I'm always studying and applying more and more data science each day and getting more certificates in this area<br>💬Ask me about business intelligence, broad business view and business understanding through data<br>
 
 ## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luiz-furtado-dev/) 
 
