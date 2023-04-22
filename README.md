@@ -3,29 +3,31 @@
 ## 📂 Portfolio 
 ### Data Analysis and Machine Learning
 
-#### [1. Customer Engagement Data Analysis](https://github.com/TSLSouth/SQL-Customer-Engagement-Analysis) Tools: SQL.
+#### [1. SpaceX-Analysis-and-Launching-Outcomes-Prediction](https://github.com/TSLSouth/SpaceX-Analysis-Launch-Outcomes-Prediction) Tools: SQL, Python, Pandas, Numpy, Matplotlib, Seaborn, Folium, Plotly Dash and Scikitlearn.
 
-#### [2. Customer Service Data Analysis](https://github.com/TSLSouth/Customer-Service-Analysis-NYPD) Tools: Python, Pandas, Numpy, Matplotlib and Seaborn.
+#### [2. Customer Engagement Data Analysis](https://github.com/TSLSouth/SQL-Customer-Engagement-Analysis) Tools: SQL.
 
-#### [3. HelpDesk Data Aanalysis and Modeling](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn, PowerBI.
+#### [3. Customer Service Data Analysis](https://github.com/TSLSouth/Customer-Service-Analysis-NYPD) Tools: Python, Pandas, Numpy, Matplotlib and Seaborn.
 
-#### [4. User Churn Prediction](https://github.com/TSLSouth/Churn-Prediction) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn.
+#### [4. HelpDesk Data Aanalysis and Modeling](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn, PowerBI.
 
-#### [5. User Upgrade Prediction]() Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn 
+#### [5. User Churn Prediction](https://github.com/TSLSouth/Churn-Prediction) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn.
 
-#### [6. Clothing Brand Customers Data Analysis](https://github.com/TSLSouth/Customer-Analysis-of-a-Clothing-Brand-with-multiple-recomendations) Tools: Excel, Power BI, LookerStudio 
+#### [6. User Upgrade Prediction]() Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn 
 
-#### [7. Risk Analysis and Prediction](https://github.com/TSLSouth/Risk-Analysis-Prediction-with-Tensorflow) Tools:  Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn and Tensorflow/Keras.
+#### [7. Clothing Brand Customers Data Analysis](https://github.com/TSLSouth/Customer-Analysis-of-a-Clothing-Brand-with-multiple-recomendations) Tools: Excel, Power BI, LookerStudio 
 
-#### [8. House Price Prediction](https://github.com/TSLSouth/House-Price-Predictions-with-Neural-Network) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn and Neural Networks.
+#### [8. Risk Analysis and Prediction](https://github.com/TSLSouth/Risk-Analysis-Prediction-with-Tensorflow) Tools:  Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn and Tensorflow/Keras.
 
-#### [9. Stocks Behaviour During Financial Crisis 2008](https://github.com/TSLSouth/EDA-on-US-Stocks-Behaviour-During-Financial-Crisis-2008) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn.
+#### [9. House Price Prediction](https://github.com/TSLSouth/House-Price-Predictions-with-Neural-Network) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn and Neural Networks.
 
-#### [10. Credit Analysis and Prediction]() Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn 
+#### [10. Stocks Behaviour During Financial Crisis 2008](https://github.com/TSLSouth/EDA-on-US-Stocks-Behaviour-During-Financial-Crisis-2008) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn.
 
-#### [11. Cancer Diagnosis](https://github.com/TSLSouth/Cancer-Diagnosis-high-dimensional-db-using-PCA-and-SVM) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn on an high-dimensional database.
+#### [11. Credit Analysis and Prediction]() Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn 
 
-#### [12. Startup KPIs Dashboard](https://github.com/TSLSouth/Startup-KPIs-Dashboard) Tools: Excel, LookerStudio.
+#### [12. Cancer Diagnosis](https://github.com/TSLSouth/Cancer-Diagnosis-high-dimensional-db-using-PCA-and-SVM) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn on an high-dimensional database.
+
+#### [13. Startup KPIs Dashboard](https://github.com/TSLSouth/Startup-KPIs-Dashboard) Tools: Excel, LookerStudio.
 <br>
 
 ## 📊 GitHub Stats:
