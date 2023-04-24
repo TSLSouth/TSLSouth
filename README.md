@@ -5,13 +5,13 @@
 
 #### [1. SpaceX-Analysis-and-Launching-Outcomes-Prediction](https://github.com/TSLSouth/SpaceX-Analysis-Launch-Outcomes-Prediction) Tools: SQL, Python, Pandas, Numpy, Matplotlib, Seaborn, Folium, Plotly Dash and Scikitlearn.
 
-#### [2. Customer Engagement Data Analysis](https://github.com/TSLSouth/SQL-Customer-Engagement-Analysis) Tools: SQL.
+#### [2. User Churn Prediction](https://github.com/TSLSouth/Churn-Prediction) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn.
 
-#### [3. Customer Service Data Analysis](https://github.com/TSLSouth/Customer-Service-Analysis-NYPD) Tools: Python, Pandas, Numpy, Matplotlib and Seaborn.
+#### [3. Customer Engagement Data Analysis](https://github.com/TSLSouth/SQL-Customer-Engagement-Analysis) Tools: SQL.
 
-#### [4. HelpDesk Data Aanalysis and Modeling](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn, PowerBI.
+#### [4. Customer Service Data Analysis](https://github.com/TSLSouth/Customer-Service-Analysis-NYPD) Tools: Python, Pandas, Numpy, Matplotlib and Seaborn.
 
-#### [5. User Churn Prediction](https://github.com/TSLSouth/Churn-Prediction) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn.
+#### [5. HelpDesk Data Aanalysis and Modeling](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn, PowerBI.
 
 #### [6. User Upgrade Prediction]() Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn 
 
