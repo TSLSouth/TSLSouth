@@ -9,25 +9,26 @@
 
 #### [3. Customer Engagement Data Analysis](https://github.com/TSLSouth/SQL-Customer-Engagement-Analysis) Tools: SQL.
 
-#### [4. Customer Service Data Analysis](https://github.com/TSLSouth/Customer-Service-Analysis-NYPD) Tools: Python, Pandas, Numpy, Matplotlib and Seaborn.
+#### [4. Startup KPIs Dashboard](https://github.com/TSLSouth/Startup-KPIs-Dashboard) Tools: Excel, LookerStudio.
 
-#### [5. HelpDesk Data Aanalysis and Modeling](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn, PowerBI.
+#### [5. Customer Service Data Analysis](https://github.com/TSLSouth/Customer-Service-Analysis-NYPD) Tools: Python, Pandas, Numpy, Matplotlib and Seaborn.
 
-#### [6. User Upgrade Prediction]() Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn 
+#### [6. HelpDesk Data Aanalysis and Modeling](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn, PowerBI.
 
-#### [7. Clothing Brand Customers Data Analysis](https://github.com/TSLSouth/Customer-Analysis-of-a-Clothing-Brand-with-multiple-recomendations) Tools: Excel, Power BI, LookerStudio 
+#### [7. User Upgrade Prediction]() Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn 
 
-#### [8. Risk Analysis and Prediction](https://github.com/TSLSouth/Risk-Analysis-Prediction-with-Tensorflow) Tools:  Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn and Tensorflow/Keras.
+#### [8. Clothing Brand Customers Data Analysis](https://github.com/TSLSouth/Customer-Analysis-of-a-Clothing-Brand-with-multiple-recomendations) Tools: Excel, Power BI, LookerStudio 
 
-#### [9. House Price Prediction](https://github.com/TSLSouth/House-Price-Predictions-with-Neural-Network) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn and Neural Networks.
+#### [9. Risk Analysis and Prediction](https://github.com/TSLSouth/Risk-Analysis-Prediction-with-Tensorflow) Tools:  Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn and Tensorflow/Keras.
 
-#### [10. Stocks Behaviour During Financial Crisis 2008](https://github.com/TSLSouth/EDA-on-US-Stocks-Behaviour-During-Financial-Crisis-2008) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn.
+#### [10. House Price Prediction](https://github.com/TSLSouth/House-Price-Predictions-with-Neural-Network) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn and Neural Networks.
 
-#### [11. Credit Analysis and Prediction]() Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn 
+#### [11. Stocks Behaviour During Financial Crisis 2008](https://github.com/TSLSouth/EDA-on-US-Stocks-Behaviour-During-Financial-Crisis-2008) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn.
 
-#### [12. Cancer Diagnosis](https://github.com/TSLSouth/Cancer-Diagnosis-high-dimensional-db-using-PCA-and-SVM) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn on an high-dimensional database.
+#### [12. Credit Analysis and Prediction]() Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn 
 
-#### [13. Startup KPIs Dashboard](https://github.com/TSLSouth/Startup-KPIs-Dashboard) Tools: Excel, LookerStudio.
+#### [13. Cancer Diagnosis](https://github.com/TSLSouth/Cancer-Diagnosis-high-dimensional-db-using-PCA-and-SVM) Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn on an high-dimensional database.
+
 <br>
 
 ## 📊 GitHub Stats:
