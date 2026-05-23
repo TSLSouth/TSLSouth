@@ -1,117 +1,90 @@
-## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luiz-furtado-dev/) 
+# Hi, I'm Luiz Furtado 👋
 
-# 📂 Portfolio
+**Data Analyst | Data Scientist | Business Intelligence**
 
-### [1. Complete Data Science Project](https://github.com/TSLSouth/SpaceX-Analysis-Launch-Outcomes-Prediction)</br>
-   ⏹ <b>Data Science, Machine Learning, Data Visualization </b></br>
-   Subject: SpaceX-Analysis-and-Launching-Outcomes-Prediction </br>
-   Tools: SQL, Python, Pandas, Numpy, Matplotlib, Seaborn, Folium, Plotly Dash and Scikitlearn.
-   
-   ---
+Transforming raw data into actionable insights through analysis, machine learning, and compelling visualizations.
 
-### [2. EDA and Machine Learning Model](https://github.com/TSLSouth/Churn-Prediction)
-   ⏹ <b>Data Science, Machine Learning, Data Visualization </b></br>
-   Subject: User Churn Prediction </br>
-   Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn.
-   
-   ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-furtado-dev/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### [3. SQL](https://github.com/TSLSouth/SQL-Customer-Engagement-Analysis) 
-   ⏹ <b>Data Analysis, Data Visualization </b></br>
-   Subject: Customer Engagement </br>
-   Tools: SQL.
-   
-   ---
-   
-### [4. Tableau](https://github.com/TSLSouth/London-Bike-Rides)
-   ⏹ <b>BI, Data Analysis, Data Visualization </b></br>
-   Subject: London Bike Rides </br>
-   Tools: Python, Pandas, Seaborn, Excel, Tableau.
-   
-   ---
+---
 
-### [5. LookerStudio](https://github.com/TSLSouth/Startup-KPIs-Dashboard)
-   ⏹ <b>BI, Data Analysis, Data Visualization </b></br>
-   Subject: Startup Financial and Operational KPIs </br>
-   Tools: Excel, LookerStudio.
-   
-   ---
-   
-### [6. Power BI](https://github.com/TSLSouth/Customer-Analysis-of-a-Clothing-Brand-with-multiple-recomendations)
-   ⏹ <b>BI, Data Analysis, Data Visualization </b></br>
-   Subject: Clothing Brand Customers Data Analysis </br>
-   Tools: Excel, Power BI, LookerStudio.
-   
-   ---
-   
-### [7. Plotly Dash](https://github.com/TSLSouth/EDA-on-US-Stocks-Behaviour-During-Financial-Crisis-2008)
-   ⏹ <b>BI, Data Analysis, Data Visualization </b></br>
-   Subject: Stocks Behaviour During Financial Crisis 2008 </br>
-   Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Plotly Dash.
-   
-   ---
-   
-### [8. High-Dimensional Database](https://github.com/TSLSouth/Cancer-Diagnosis-high-dimensional-db-using-PCA-and-SVM)
-   ⏹ <b>Data Science, Machine Learning, Data Analysis, Data Visualization </b></br>
-   Subject: Cancer Diagnosis using PCA and SVM </br>
-   Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn.
-   
-   ---
-   
-### [9. Neural Networks](https://github.com/TSLSouth/House-Price-Predictions-with-Neural-Network)
-   ⏹ <b>Deep Learning</b></br>
-   Subject: House Price Prediction </br>
-   Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn.
-   
-   ---
-   
-### [10. Tensor Flow / Keras](https://github.com/TSLSouth/Risk-Analysis-Prediction-with-Tensorflow)
-   ⏹ <b>Deep Learning</b></br>
-   Subject: Risk Analysis and Prediction </br> 
-   Tools:  Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn and Tensorflow/Keras.
-   
-   ---
-   
-   # 📂 Other projects
+## 📂 Featured Projects
 
-#### [11. Customer Service Analysis](https://github.com/TSLSouth/Customer-Service-Analysis-NYPD)
-   ⏹ <b>Data Analysis, Data Science, Machine Learning, Data Viz</b></br>
-   Subject: Customer Service Data Analysis </br> 
-   Tools: Python, Pandas, Numpy, Matplotlib and Seaborn.
+### 1. 🚀 [SpaceX — Launch Outcomes Prediction](https://github.com/TSLSouth/SpaceX-Analysis-Launch-Outcomes-Prediction)
+**Data Science · Machine Learning · Data Visualization**
 
-#### [12. Helpdesk Analysis](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard)
-   ⏹ <b>Data Analysis, BI, Data Science, Machine Learning, Data Viz</b></br>
-   Subject: HelpDesk Data Aanalysis and Modeling </br>
-   Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn, PowerBI.
+End-to-end data science project covering data collection, SQL analysis, geospatial visualization, interactive dashboards and ML classification models to predict SpaceX landing outcomes.
 
-#### [13. Customer Analysis](https://github.com/TSLSouth/Customer-Analysis-of-a-Clothing-Brand-with-multiple-recomendations)
-   ⏹ <b>Data Analysis, BI, Data Viz</b></br>
-   Subject: Clothing Brand Customers Data Analysis </br>
-   Tools: Excel, Power BI, LookerStudio. 
+`Python` `SQL` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Folium` `Plotly Dash` `Scikit-learn`
 
-#### [14. User Upgrade Prediction]() 
-   Pending upload </br>
-   Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn.
+---
 
-#### [15. Credit Analysis and Prediction]() 
-   Pending upload </br>
-   Tools: Python, Pandas, Numpy, Matplotlib, Seaborn and Scikitlearn.
+### 2. 🔬 [Cancer Diagnosis — PCA & SVM on High-Dimensional Data](https://github.com/TSLSouth/Cancer-Diagnosis-high-dimensional-db-using-PCA-and-SVM)
+**Data Science · Machine Learning · Dimensionality Reduction**
 
+Applying Principal Component Analysis (PCA) for dimensionality reduction and Support Vector Machine (SVM) for cancer diagnosis classification on a high-dimensional medical dataset.
 
+`Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-learn` `PCA` `SVM`
 
-<br>
+---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TSLSouth&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TSLSouth&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TSLSouth&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 3. ⚠️ [Risk Analysis & Prediction — TensorFlow/Keras](https://github.com/TSLSouth/Risk-Analysis-Prediction-with-Tensorflow)
+**Deep Learning · Neural Networks**
 
-<br>
+Deep learning model for risk analysis and prediction using TensorFlow/Keras, covering data preprocessing, model architecture design, training, and evaluation.
 
-<br>
+`Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-learn` `TensorFlow` `Keras`
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
 
-<br>
+### 4. 📉 [Churn Prediction — EDA & Machine Learning](https://github.com/TSLSouth/Churn-Prediction)
+**Data Science · Machine Learning · EDA**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Exploratory data analysis and machine learning model to predict user churn, identifying key behavioral patterns and building a classification model.
+
+`Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-learn`
+
+---
+
+### 5. 🏠 [House Price Prediction — Neural Networks](https://github.com/TSLSouth/House-Price-Predictions-with-Neural-Network)
+**Deep Learning · Regression**
+
+Neural network model for real estate price prediction, from feature engineering to model training and performance evaluation.
+
+`Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-learn`
+
+---
+
+### 6. 🎧 [HelpDesk — EDA, ML & Power BI Dashboard](https://github.com/TSLSouth/HelpDesk-EDA-ML-Dashboard)
+**Data Analysis · Business Intelligence · Machine Learning**
+
+Full pipeline from exploratory analysis and machine learning modeling to an interactive Power BI dashboard for HelpDesk operations.
+
+`Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-learn` `Power BI`
+
+---
+
+## 📊 Other Projects
+
+| # | Project | Area | Tools |
+|---|---------|------|-------|
+| 7 | [Customer Engagement Analysis](https://github.com/TSLSouth/SQL-Customer-Engagement-Analysis) | Data Analysis | `SQL` |
+| 8 | [London Bike Rides](https://github.com/TSLSouth/London-Bike-Rides) | BI · Data Viz | `Python` `Pandas` `Excel` `Tableau` |
+| 9 | [Startup KPIs Dashboard](https://github.com/TSLSouth/Startup-KPIs-Dashboard) | BI · Data Viz | `Excel` `Looker Studio` |
+| 10 | [Clothing Brand Customer Analysis](https://github.com/TSLSouth/Customer-Analysis-of-a-Clothing-Brand-with-multiple-recomendations) | BI · Data Analysis | `Excel` `Power BI` `Looker Studio` |
+| 11 | [US Stocks — Financial Crisis 2008](https://github.com/TSLSouth/EDA-on-US-Stocks-Behaviour-During-Financial-Crisis-2008) | Data Analysis · Data Viz | `Python` `Pandas` `Plotly Dash` |
+| 12 | [Customer Service Analysis — NYPD](https://github.com/TSLSouth/Customer-Service-Analysis-NYPD) | Data Analysis · ML | `Python` `Pandas` `Matplotlib` `Seaborn` |
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSLSouth&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TSLSouth&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSLSouth&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
