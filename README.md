@@ -14,6 +14,44 @@ Transforming raw data into actionable insights through analysis, machine learnin
 
 ---
 
+## 🆕 Recent Projects
+
+### 🇧🇷 [WTF Brasil — 7 Decades of Economic Data](http://wtf-brasil.web.app/)
+**Data Visualization · Web App · Public Data**
+
+Interactive dashboard with historical economic data from Brazil (1950–2024). Covers GDP vs wages, inequality (Gini), hyperinflation, public debt, interest rates and income concentration — all in one place.
+
+`Data Visualization` `JavaScript` `Firebase` `IPEADATA` `Banco Central` `IBGE`
+
+---
+
+### 🔍 [Fato ou Fake — AI Fact-Checking Tool](https://fato-fake.web.app/)
+**AI · Fact-Checking · Multi-model**
+
+Journalistic fact-checking tool that submits any content (photo, video, text or file) to 5 AI models simultaneously — Gemini, DeepSeek, ChatGPT, Grok and Claude — for multi-perspective verification.
+
+`AI` `JavaScript` `Firebase` `Gemini API` `DeepSeek API` `Claude API`
+
+---
+
+### 🤖 [Amigo Pou — AI Companion App](https://amigopou.web.app/)
+**AI · Chatbot · SaaS**
+
+AI-powered virtual companion with personalized memory, subscription model (R$29,90/month) and LGPD-compliant data storage. Designed for ongoing emotional support and intelligent conversation.
+
+`AI` `JavaScript` `Firebase` `LLM` `SaaS` `LGPD`
+
+---
+
+### 🧘 [Video Hub — Yoga & Meditation Platform](https://videohub-landing.web.app/)
+**Full Stack · SaaS · Subscription**
+
+Full-stack platform for yoga, breathwork and meditation with on-demand video library, live scheduled classes, Basic/Premium subscription plans (Stripe), admin panel for content and user management, and an analytics dashboard with retention, churn, watch clicks and top content insights.
+
+`JavaScript` `Firebase` `Stripe` `Auth` `SaaS` `UI/UX` `Analytics`
+
+---
+
 ## 📂 Featured Projects
 
 ### 1. 🚀 [SpaceX — Launch Outcomes Prediction](https://github.com/TSLSouth/SpaceX-Analysis-Launch-Outcomes-Prediction)
